@@ -169,4 +169,4 @@ Let's work together
 Have a question? Need a quote? Let us know!
 
 #### Footer
-Business website opdracht &copy; NOVI Hogeschool 2022
+Business website opdracht &copy; NOVI Hogeschool 2022# frontend-html-css-concept-opdracht-les-3-
